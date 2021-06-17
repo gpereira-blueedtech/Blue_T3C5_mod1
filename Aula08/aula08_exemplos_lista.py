@@ -136,3 +136,8 @@ print(lista_deletados)
 # for i in range(5):
 #     lVazia.append(input("Digite um valor: "))
 # print(lVazia)
+
+
+### Criar uma lista a partir de um range:
+L1 = list(range(1000))
+print(L1)
