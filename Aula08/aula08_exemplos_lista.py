@@ -77,7 +77,7 @@ s = ["5000","Blue", "C","A", "20","Dado", "10", "Dedo","Dabura"]
 # l.extend(s)
 # print(l)
 # print()
-
+#ind 0  1  2  3  4
 l = [20,10,30,50,40]
 s = ["5000","Blue", "C","A", "20","Dado", "10", "Dedo","Dabura"]
 
@@ -85,16 +85,16 @@ s = ["5000","Blue", "C","A", "20","Dado", "10", "Dedo","Dabura"]
 # del l[2]
 # print(l)
 
-lista_deletados = []
-print(l)
-l.pop() # pop(i) remove um elemento da lista pelo índice. Quando ñão é passado um índice, por padrão remove o último elemento.
-        # após remover, retorna esse elemento, que poderá ser armazenado em algum lugar
-lista_deletados.append(l.pop(1)) #remove o item do índice 1 e armazena na "lista_deletados" como um novo valor com o append().
-print(l)
-print(lista_deletados)
-lista_deletados.append(l.pop(1))
-print(l)
-print(lista_deletados)
+# lista_deletados = []
+# print(l)
+# l.pop() # pop(i) remove um elemento da lista pelo índice. Quando ñão é passado um índice, por padrão remove o último elemento.
+#         # após remover, retorna esse elemento, que poderá ser armazenado em algum lugar
+# lista_deletados.append(l.pop(1)) #remove o item do índice 1 e armazena na "lista_deletados" como um novo valor com o append().
+# print(l)
+# print(lista_deletados)
+# lista_deletados.append(l.pop(1))
+# print(l)
+# print(lista_deletados)
 
 
 # print(10 in l)
