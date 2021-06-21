@@ -5,11 +5,10 @@
 # lista.clear()
 # print(lista2)
 
-lista = [["Janice",10],["Max",15],["Glauco",20]]
+lista = [["Janice",20],["Max",15],["Glauco",30]]
 
 for n in lista:
     print(f"Nome: {n[0]}, Número: {n[1]}")
-    # print(n[1])
 
 
 
