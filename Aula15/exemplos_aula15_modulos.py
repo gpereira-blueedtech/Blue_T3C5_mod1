@@ -22,6 +22,7 @@ print(a)
 # a = list(range(5,10,2)) #range(5,10,2)
 # print(a)
 
+# Criei uma nova função totalmente espetacular
 
 
 
