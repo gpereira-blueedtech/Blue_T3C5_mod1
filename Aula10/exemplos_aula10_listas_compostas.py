@@ -16,3 +16,6 @@ for n in lista:
 # verifique quais clientes são maiores de idade e quais são menores de idade e mostre na tela 
 # a seguinte frase para cada um deles: 'Fulano é maior de idade' ou 'Fulana é menor de idade' 
 # e  também quantos são maiores e quantos são menores de idade.
+
+
+# ALTEREI!!!
